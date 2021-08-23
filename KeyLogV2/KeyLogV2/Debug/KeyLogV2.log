@@ -1,0 +1,44 @@
+﻿  KeyLogV2.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:  'bağımsız değişken': 'wchar_t' - 'const _Elem' dönüşümü; veri kaybı olabilir
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:             _Elem=char
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2348,23): warning C4244:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' örneği oluşturma başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :  derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)' örneği oluşturma başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2359): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' örneği oluşturma başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :  derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)' örneği oluşturma başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :             _Iter=wchar_t *
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\xstring(2339): message :         ]
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :  derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         with
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         [
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Elem=wchar_t,
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Alloc=std::allocator<char>
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         ]
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :  derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,void>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         with
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         [
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Elem=wchar_t,
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :             _Alloc=std::allocator<char>
+E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\KeyLogV2\KeyLogV2.cpp(33): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(591): message :  derlenen sınıf şablon örneği oluşturma 'std::chrono::duration<double,std::ratio<1,1>>' başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(169): message :  derlenen sınıf şablon örneği oluşturma 'std::chrono::duration<__int64,std::nano>' başvurusuna bakın
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\chrono(570): message :  derlenen sınıf şablon örneği oluşturma 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' başvurusuna bakın
+  KeyLogV2.vcxproj -> E:\Projects\E-Bilge Staj\Keylogger Project\Project Folder\KeyLogV2\Debug\KeyLogV2.exe
